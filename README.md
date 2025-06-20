@@ -46,5 +46,8 @@ I am a Backend Developer with over five years of experience in software developm
     <a href="https://www.linkedin.com/in/reza-lesmana-putra/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    <a href="https://rzalvaero.github.io/resume" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume/CV"/>
+    </a>
     </p>
 </details>
