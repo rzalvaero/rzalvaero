@@ -1,4 +1,4 @@
-# ✨ Reza Alvaero 🌈
+# Hi, There i'm Reza Alvaero ✨
 
 <!--
 ![Banner Proyek Anda](https://via.placeholder.com/1200x400/FFD1DC/FFFFFF?text=Selamat+Datang+di+Proyek+Penuh+Warna+Anda!)
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is **Reza Alvaero**. I am a Backend Developer with over five years of experience in software development, specializing in web and intranet applications. While my primary focus is on backend development, I am also proficient in handling frontend tasks. My technical expertise includes a range of programming languages such as PHP, C#, and Python; frameworks like Codeigniter and Laravel; and databases including MS SQL Server and MySQL. In addition to my development skills, I have practical knowledge in Search Engine Optimization (SEO), specifically in building healthy backlinks to improve website rankings.
+I am a Backend Developer with over five years of experience in software development, specializing in web and intranet applications. While my primary focus is on backend development, I am also proficient in handling frontend tasks. My technical expertise includes a range of programming languages such as PHP, C#, and Python; frameworks like Codeigniter and Laravel; and databases including MS SQL Server and MySQL. In addition to my development skills, I have practical knowledge in Search Engine Optimization (SEO), specifically in building healthy backlinks to improve website rankings.
 
 ---
 
