@@ -1,4 +1,4 @@
-# Hi, There i'm Reza Alvaero ✨
+# Hi there, i'm Reza Alvaero ✨
 
 <!--
 ![Banner Proyek Anda](https://via.placeholder.com/1200x400/FFD1DC/FFFFFF?text=Selamat+Datang+di+Proyek+Penuh+Warna+Anda!)
@@ -18,90 +18,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Backend Developer with over five years of experience in software development, specializing in web and intranet applications. While my primary focus is on backend development, I am also proficient in handling frontend tasks. My technical expertise includes a range of programming languages such as PHP, C#, and Python; frameworks like Codeigniter and Laravel; and databases including MS SQL Server and MySQL. In addition to my development skills, I have practical knowledge in Search Engine Optimization (SEO), specifically in building healthy backlinks to improve website rankings.
+I am a Backend Developer with over five years of experience in software development, specializing in web and intranet applications. While my primary focus is on backend development, I am also proficient in handling frontend tasks. My technical expertise includes a range of programming languages such as `[PHP, C#, and Python, HTML, CSS]`. frameworks like `[Codeigniter and Laravel]` and databases including `[MS SQL Server, Postgre and MySQL]`. In addition to my development skills, I have practical knowledge in `[Search Engine Optimization (SEO)]`, specifically in building healthy backlinks to improve website rankings.
 
 ---
-
-## 💡 Fitur Unggulan Kami 🎨
-
-[Nama Proyek Anda] hadir dengan segudang fitur menarik yang akan membuat pengalaman Anda luar biasa!
-
-* ✨ **[Fitur 1]:** [Deskripsi singkat fitur 1 yang menyorot keunggulannya].
-* 🚀 **[Fitur 2]:** [Deskripsi singkat fitur 2 yang menyorot keunggulannya].
-* 💖 **[Fitur 3]:** [Deskripsi singkat fitur 3 yang menyorot keunggulannya].
-* 🛠️ **[Fitur 4]:** [Deskripsi singkat fitur 4 yang menyorot keunggulannya].
-* ... dan masih banyak lagi! 🤩
-
----
-
-## 🛠️ Teknologi yang Digunakan 💻
-
-Proyek ini dibangun dengan fondasi teknologi yang kokoh dan modern, memastikan kinerja terbaik dan skalabilitas.
-
-* **Frontend:**
-    * `[Teknologi Frontend 1]` (misal: React, Vue.js, Angular)
-    * `[Teknologi Frontend 2]` (misal: SASS, Tailwind CSS)
-* **Backend:**
-    * `[Teknologi Backend 1]` (misal: Node.js, Python/Django/Flask, Ruby on Rails, Go)
-    * `[Teknologi Backend 2]` (misal: Express.js, Spring Boot)
-* **Database:**
-    * `[Database 1]` (misal: PostgreSQL, MongoDB, MySQL)
-* **Lain-lain:**
-    * `[Alat/Layanan Lain]` (misal: Docker, Kubernetes, AWS, Google Cloud)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/>
+</p>
 
 ---
+### 📊 Statistik GitHub Saya 📈
 
-## 📦 Instalasi Super Mudah! 🚀
-
-Ikuti langkah-langkah sederhana ini untuk menjalankan [Nama Proyek Anda] di mesin lokal Anda. Siap-siap terkejut! 😉
-
-1.  **Clone repositori ini:**
-    ```bash
-    git clone [https://github.com/NamaUserAnda/NamaProyekAnda.git](https://github.com/NamaUserAnda/NamaProyekAnda.git)
-    cd NamaProyekAnda
-    ```
-
-2.  **Instal dependensi:**
-    ```bash
-    # Jika menggunakan Node.js
-    npm install
-    # atau
-    yarn install
-
-    # Jika menggunakan Python
-    pip install -r requirements.txt
-    ```
-
-3.  **Konfigurasi (jika diperlukan):**
-    * Buat file `.env` di root proyek.
-    * Tambahkan variabel lingkungan yang diperlukan:
-        ```
-        DB_HOST=localhost
-        DB_USER=root
-        DB_PASS=password
-        # ...dll
-        ```
-
-4.  **Jalankan aplikasi:**
-    ```bash
-    # Contoh untuk Node.js
-    npm start
-    # atau
-    yarn start
-
-    # Contoh untuk Python
-    python app.py
-    ```
-    Buka `http://localhost:3000` (atau port yang sesuai) di browser Anda! 🎉
-
----
-
-## 🎮 Cara Menggunakan 🚀
-
-[Jelaskan cara menggunakan proyek Anda secara singkat. Berikan contoh jika memungkinkan.]
-
-Contoh:
-Setelah berhasil menginstal, Anda bisa [lakukan A] untuk [hasil B].
-```bash
-# Contoh perintah
-npm run build
+<p align="center">
+  <a href="https://github.com/rzalvaero">
+    <img src="https://github-readme-stats.vercel.app/api?username=rzalvaero&show_icons=true&theme=buefy&hide_border=true&locale=en" alt="Statistik GitHub Anda"/>
+  </a>
+  <a href="https://github.com/rzalvaero">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzalvaero&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Bahasa Top Anda"/>
+  </a>
+</p>
